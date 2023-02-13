@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "email": "jessedanobrega@gmail.com",
+      "password": "$2a$10$Wefg7WAsXfmQzqDO.ENa5.u1r177VUp1B25HmWLMvtK7YVDowTEPS",
+      "id": 1
+    },
+    {
+      "email": "amansio@gmail.com",
+      "password": "$2a$10$zHWcDDXIV7QMHjAEv.jwDunp1HJ4urg1aRyGNsgppYjiCUpVTtSA6",
+      "id": 2
+    }
+  ],
+  "learnhttp": {
+    "content": "Olá mundo"
+  },
+  "journals": [
+    {
+      "id": "f74fa090-a74b-11ed-841b-8707cd446a7e",
+      "content": "Andei de bike ontem! E andarei no proximo fds.",
+      "createdAt": "2023-02-05 21:58:39.599823",
+      "updatedAt": "2023-02-05 21:58:39.599823",
+      "userId": 1
+    },
+    {
+      "id": "5c3b64e0-a944-11ed-92f0-4900d368d03c",
+      "content": "Um bom sabado",
+      "createdAt": "2023-02-04 10:10:54.797187",
+      "updatedAt": "2023-02-04 10:10:54.797187",
+      "userId": 2
+    }
+  ]
+}
